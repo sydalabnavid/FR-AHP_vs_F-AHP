@@ -1,6 +1,6 @@
-# Replication Package for  
+# _Submitted to _**Fuzzy Optimization and Decision Making**_
 **“Fuzzy‑Rough AHP vs. Classical Fuzzy AHP: A Robustness Study”**  
-_Submitted to _**Fuzzy Optimization and Decision Making**_
+
 
 ---
 
