@@ -1,4 +1,4 @@
-# Submitted to _**Fuzzy Optimization and Decision Making**_ 
+# Submitted to Journal: _**Fuzzy Optimization and Decision Making**_ 
 # Springer
 **“Fuzzy‑Rough AHP vs. Classical Fuzzy AHP: A Robustness Study”**  
 
